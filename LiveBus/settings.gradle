@@ -1,0 +1,3 @@
+rootProject.name='LiveBus'
+include ':demo'
+include ':livebus'
